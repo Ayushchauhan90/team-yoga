@@ -1,0 +1,148 @@
+/* Responsive index.html on (600 to 800px) */
+@media (min-width:600px) and (max-width:800px) {
+    .my-container {
+        display: contents;
+    }
+
+    .structure-image {
+        width: 30%;
+    }
+
+    .structure-image img {
+        height: 46px;
+        width: 141px;
+    }
+
+    .physical::after {
+        display: none;
+    }
+
+    .declaring h3 {
+        font-size: 32px;
+        text-align: center;
+    }
+
+    .declaring-text p {
+        font-size: 25px;
+        word-spacing: 2px;
+        text-align: center;
+    }
+
+    .count-image {
+        position: absolute;
+        top: 5%;
+        right: 4%;
+    }
+
+    .flow {
+        max-width: 80%;
+        padding: 13px;
+        background-color: #FFEBF3;
+        box-shadow: 0px 3px 12px 3px pink;
+        margin: 100px auto;
+    }
+
+    .yoga {
+        position: absolute;
+        right: 20px;
+        bottom: 0;
+    }
+
+    .bring {
+        width: 80%;
+        padding: 13px;
+        margin-left: 62px;
+        background-color: antiquewhite;
+        border-top-right-radius: 95px;
+        border-bottom-right-radius: 100px;
+    }
+
+    .reduse {
+        max-width: 100%;
+        text-align: center;
+        margin: 0 auto;
+    }
+
+    /* .footer-left {
+        padding-left: 6px;
+        color: #fff;
+        width: 33%;
+    }
+    .heading-left h3 {
+        font-size: 11px;
+        margin: 50px 0 19px 0;
+    }
+    .contant li {
+        display: block;
+        text-transform: capitalize;
+        font-size: 15px;
+    } */
+    .background {
+        display: none;
+    }
+
+    .footer2 {
+        display: block;
+        background: #000;
+        color: white;
+        /* padding: 10px; */
+        padding: 20px 10px 20px 13px;
+    }
+
+    .tag1 {
+        width: 33%;
+    }
+
+    .heading-left1 h3 {
+        font-size: 11px;
+    }
+
+    .tag1 ul {
+        padding: 0px;
+    }
+
+    .tag1 ul li {
+        display: block;
+        padding: 0px;
+        font-size: 15px;
+    }
+
+    .tag2 {
+        width: 33%;
+    }
+
+    .heading-image1 {
+        padding-top: 12px;
+    }
+
+    .heading-image1 img {
+        width: 100%;
+    }
+
+    .tag1 {
+        width: 33%;
+    }
+
+    .heading-right h3 {
+        font-size: 11px;
+    }
+
+    .footer-right {
+        padding-left: 18px;
+    }
+
+    .contant-right {
+        padding: 0px;
+    }
+
+    .contant-right li {
+        display: block;
+        padding: 0px;
+        font-size: 15px;
+    }
+    .text-footer1 {
+        font-size: 11px;
+        text-align: center;
+    }
+
+}
